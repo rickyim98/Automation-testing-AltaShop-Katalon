@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_login with invlid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2384eb0-b708-46f5-9b08-14f4e84bf194</testCaseGuid>
+</TestCaseEntity>

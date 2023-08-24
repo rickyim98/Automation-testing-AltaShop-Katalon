@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login invalid email-invalid paswword</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dee47e1b-94b4-494c-915a-4521568520e4</testCaseGuid>
+</TestCaseEntity>
