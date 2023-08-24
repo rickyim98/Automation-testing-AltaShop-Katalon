@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>button_Bayar</name>
    <tag></tag>
-   <elementGuidId>96cd8792-8822-42ed-95f8-8721dda08e08</elementGuidId>
+   <elementGuidId>52b027c5-3d7c-4089-8987-03b1b53c60b9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <value>//button[@id='button-bayar']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default.primary</value>
+         <value>#button-bayar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ba57c779-9e26-47aa-a94d-8f2c3a07023d</webElementGuid>
+      <webElementGuid>09a6dffe-f464-439f-8db6-3c8864b3ea7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,78 +30,94 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>98a17796-95cc-4957-a853-3e2ab57edd40</webElementGuid>
+      <webElementGuid>ae8e0b03-f8f9-46e5-8a9e-646f34c7600e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
-      <webElementGuid>3343db06-2cd9-4a3a-8806-09870381ea41</webElementGuid>
+      <value>v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--large primary</value>
+      <webElementGuid>34cefa09-a4ab-4dae-82b3-d038eb7e3c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>button-bayar</value>
+      <webElementGuid>fc448dc1-131c-40e0-a315-ae6e6818cd56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>873dd3cd-e05a-4df8-97c9-a8e51c8842d1</webElementGuid>
+      <value> Bayar </value>
+      <webElementGuid>b4539b28-c1e0-467f-bf53-8a4614c0fc09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;text-center&quot;]/button[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
-      <webElementGuid>f5966a69-3637-4b0a-981c-04aaad8b942c</webElementGuid>
+      <value>id(&quot;button-bayar&quot;)</value>
+      <webElementGuid>2ba58fef-1ecd-494d-a627-3e35db5a30be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>6aba15c5-45aa-472a-81af-042e7e28121c</webElementGuid>
+      <value>//button[@id='button-bayar']</value>
+      <webElementGuid>8e1ebfcf-4867-40c3-84e8-11b1bf5ebd89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/div/div[2]/form/div[3]/button</value>
-      <webElementGuid>7588ee5c-8372-4ed5-8858-8b8d13906697</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/div[2]/button</value>
+      <webElementGuid>75add6a8-12d2-4f62-b9f6-385d1024cc69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>b6aba33d-8e6f-4d97-b990-1dc2aa93a4e0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Bayar'])[1]/following::button[1]</value>
+      <webElementGuid>c9d3b47f-ed28-4698-b548-ada0e086f88f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
-      <webElementGuid>11b9417c-04d5-451c-b719-11a7b040d00a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Qty'])[1]/following::button[1]</value>
+      <webElementGuid>89a5d28e-8de0-4efb-9efb-d37011ddd5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'button-bayar', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>01203e29-081f-4238-9e80-4f9dc0c170b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>d78f5220-7dae-44f1-b9c9-c1a33565929f</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>4a512dd3-f091-456a-a69d-6793bdf77171</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>a4fbe56f-4736-4407-9fc1-13db6c71c195</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'button-bayar' and (text() = ' Bayar ' or . = ' Bayar ')]</value>
+      <webElementGuid>3847d5ff-7705-478d-8cc3-6d0aa1413dfe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>button_Beli</name>
    <tag></tag>
-   <elementGuidId>96cd8792-8822-42ed-95f8-8721dda08e08</elementGuidId>
+   <elementGuidId>532197dd-c56c-4b6e-b8ec-a9988fc8c41c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <value>(//button[@type='button'])[8]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default.primary</value>
+         <value>#85492 > div.v-card.v-sheet.theme--light > div.v-card__actions.d-block > div.mt-3 > button.button-beli.ml-3.v-btn.v-btn--outlined.theme--light.v-size--small.primary--text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ba57c779-9e26-47aa-a94d-8f2c3a07023d</webElementGuid>
+      <webElementGuid>0cb0bddf-7ac7-41ff-8791-45e6efe33604</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,78 +30,78 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>98a17796-95cc-4957-a853-3e2ab57edd40</webElementGuid>
+      <webElementGuid>77f2feb8-1608-4a8b-a7de-25897ccf46d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary</value>
-      <webElementGuid>3343db06-2cd9-4a3a-8806-09870381ea41</webElementGuid>
+      <value>button-beli ml-3 v-btn v-btn--outlined theme--light v-size--small primary--text</value>
+      <webElementGuid>ea3e9c03-44b9-4a33-a124-80483dfe7b2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>873dd3cd-e05a-4df8-97c9-a8e51c8842d1</webElementGuid>
+      <value>Beli</value>
+      <webElementGuid>f3324b34-e622-4907-8527-105280fab189</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;text-center&quot;]/button[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default primary&quot;]</value>
-      <webElementGuid>f5966a69-3637-4b0a-981c-04aaad8b942c</webElementGuid>
+      <value>id(&quot;85492&quot;)/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions d-block&quot;]/div[@class=&quot;mt-3&quot;]/button[@class=&quot;button-beli ml-3 v-btn v-btn--outlined theme--light v-size--small primary--text&quot;]</value>
+      <webElementGuid>a05477c5-b141-404b-9075-fedc5fa82e65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>6aba15c5-45aa-472a-81af-042e7e28121c</webElementGuid>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>38db19e4-977c-4afc-9f34-c8b5036c4c74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/div/div[2]/form/div[3]/button</value>
-      <webElementGuid>7588ee5c-8372-4ed5-8858-8b8d13906697</webElementGuid>
+      <value>//div[@id='85492']/div/div[3]/div[2]/button[2]</value>
+      <webElementGuid>7f69893f-2fb8-44b8-b46e-0864d723a047</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>b6aba33d-8e6f-4d97-b990-1dc2aa93a4e0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[3]/following::button[1]</value>
+      <webElementGuid>c0dcc90e-d00b-4705-a5ea-ec49226ff303</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
-      <webElementGuid>11b9417c-04d5-451c-b719-11a7b040d00a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung Galaxy Book Pro'])[1]/preceding::button[1]</value>
+      <webElementGuid>bbcacbe6-10d9-4de1-b4d1-a566e93814fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button</value>
-      <webElementGuid>d78f5220-7dae-44f1-b9c9-c1a33565929f</webElementGuid>
+      <value>//div[3]/div/div[3]/div[2]/button[2]</value>
+      <webElementGuid>18ffd2ec-d18b-4087-8672-c158956a9fb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>a4fbe56f-4736-4407-9fc1-13db6c71c195</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'Beli' or . = 'Beli')]</value>
+      <webElementGuid>dd62d672-e816-4503-9fd3-525d9ae7f438</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
